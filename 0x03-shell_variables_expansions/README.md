@@ -1,1 +1,1 @@
-Create a script that lists all local variables and environment variables, and function
+write a script that converts a number from base 2 to base 10
