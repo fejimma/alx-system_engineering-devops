@@ -1,1 +1,1 @@
-Create a script that can create an alias
+Create a script that list environment variables
